@@ -2,7 +2,7 @@
 
 โปรเจกต์ระบบควบคุมราวตากผ้าอัตโนมัติด้วยไมโครคอนโทรลเลอร์ โดยระบบจะประมวลผลจากสภาพแสงและปริมาณน้ำฝน เพื่อสั่งงานให้ราวตากผ้ากางออกเมื่ออากาศแจ่มใส และหุบเก็บอัตโนมัติเมื่อฝนตกหรือฟ้ามืด เพื่อป้องกันเสื้อผ้าเปียกฝน
 
-## 🛠️ อุปกรณ์ที่ใช้ (Hardware Requirements)
+## อุปกรณ์ที่ใช้ (Hardware Requirements)
 * **Microcontroller:** STM32F103C8T6 (Blue Pill)
 * **Light Sensor:** LDR Sensor Module (Digital Output)
 * **Rain Sensor:** Raindrop Sensor Module (Analog Output)
